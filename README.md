@@ -1,7 +1,7 @@
 <html>
 <head>
 <font size='6' face='brush script MT' color='black'>
-<h1> <center> WSA Times Magazine </center> </h1>
+<h1> <center> WSA Times Magazine </center> </h1> 
 </font>
 </head>
 <body bgcolor="mistyrose" ><font size='4'><b>
