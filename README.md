@@ -12,7 +12,7 @@ Check out the issues for each term!
 </b>
 
 <p>
-<font size='6' color='pink'><a href="C:/Users/97156/Documents/Term%201.html">Term 1</a> </font>
+<font size='6' color='pink'><a href="https://svv08.github.io/Term1/">Term 1</a> </font>
 </p>
 
 <p>
