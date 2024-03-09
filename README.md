@@ -16,7 +16,7 @@ Check out the issues for each term!
 </p>
 
 <p>
-<font size='6' color='pink'><a href="C:/Users/97156/Documents/Term2.html">Term 2</a></font>
+<font size='6' color='pink'><a href="https://svv08.github.io/Term2/">Term 2</a></font>
 </p>
 
 <p>
