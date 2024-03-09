@@ -20,7 +20,7 @@ Check out the issues for each term!
 </p>
 
 <p>
-<font size='6' color='pink'><a href="C:/Users/97156/Documents/Term%203.html">Term 3</a></font>
+<font size='6' color='pink'><a href="https://svv08.github.io/Term-3/">Term 3</a></font>
 </p>
 
 <body> <center> <font size='6'> Check out the latest issue!</font> </center> </body>
