@@ -4,7 +4,7 @@
 <h1> <center> WSA Times Magazine </center> </h1> 
 </font>
 </head>
-<body bgcolor="mistyrose" ><font size='4'><b>
+<body bgcolor="aqua" ><font size='4'><b>
 <center> The WSA Times magazine is an original student magazine published by Gems Winchester School Abu Dhabi. The English department supports it. Each magazine has its theme, making it fun to read and offering many different sections for your selection. Each student's viewpoint can be understood through our multiple columns, including Class Experience, Museum of Art, World of Future, and more. Our interesting columns are sure to keep you entertained while reading them! </center>
 </b>
 <p> <font size='4' face='jokerman' ><b>
