@@ -24,7 +24,7 @@ Check out the issues for each term!
 </p>
 
 <body> <center> <font size='6'> Check out the latest issue!</font> </center> </body>
-<center> <a href="https://anyflip.com/qjwdf/sfci/"> <img src="Latest issue.png"></a> </center>
+<center> <a href="https://anyflip.com/qjwdf/sfci/"> <img src="Latest%20Issue.png"></a> </center>
 
 
 
